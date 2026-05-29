@@ -1,0 +1,7 @@
+#posibles entornos virtuales
+myvenv
+venv
+.venv
+
+#carpeta .idea
+.idea
